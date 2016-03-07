@@ -1,1 +1,1 @@
-web: html ./bin/www
+web: php ./bin/www
