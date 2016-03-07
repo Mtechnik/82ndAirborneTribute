@@ -1,0 +1,28 @@
+{
+  "name": "tribute",
+  "version": "1.0.0",
+  "description": "FCC tribute thingy",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mtechnik/82ndAirborneTribute.git"
+  },
+  "keywords": [
+    "thingy",
+    "FCC",
+    "tribute"
+  ],
+  "author": "Mtechnik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mtechnik/82ndAirborneTribute/issues"
+  },
+  "homepage": "https://github.com/Mtechnik/82ndAirborneTribute#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
